@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7265eb73-a242-4033-8ec8-bfda28978f3e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +60,13 @@
       <workItem from="1598100124538" duration="3859000" />
       <workItem from="1598111058316" duration="276000" />
       <workItem from="1598200507168" duration="3333000" />
-      <workItem from="1598207956111" duration="3477000" />
+      <workItem from="1598207956111" duration="3845000" />
+      <workItem from="1598286119110" duration="5851000" />
+      <workItem from="1598374138118" duration="244000" />
+      <workItem from="1598374418854" duration="173000" />
+      <workItem from="1598374608946" duration="4364000" />
+      <workItem from="1598451056281" duration="3634000" />
+      <workItem from="1598457116348" duration="638000" />
     </task>
     <servers />
   </component>
@@ -52,6 +75,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1506" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598105509653">
@@ -78,10 +113,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598100102080" />
-    <state x="-1459" y="157" key="SettingsEditor" timestamp="1598105908052">
+    <state x="-1459" y="157" key="SettingsEditor" timestamp="1598457094673">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1459" y="157" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598105908052" />
+    <state x="-1459" y="157" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598457094673" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598100098129" />
     <state x="-1381" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1598106589854">
       <screen x="-1920" y="0" width="1920" height="1040" />
