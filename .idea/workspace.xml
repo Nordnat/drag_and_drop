@@ -16,11 +16,20 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7265eb73-a242-4033-8ec8-bfda28978f3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +38,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="1gSBNdBpwAfuHBLvdjoWifRrFYM" />
   <component name="ProjectViewState">
@@ -66,7 +91,10 @@
       <workItem from="1598374418854" duration="173000" />
       <workItem from="1598374608946" duration="4364000" />
       <workItem from="1598451056281" duration="3634000" />
-      <workItem from="1598457116348" duration="638000" />
+      <workItem from="1598457116348" duration="868000" />
+      <workItem from="1598459851903" duration="64000" />
+      <workItem from="1598556905012" duration="1389000" />
+      <workItem from="1598713004810" duration="6988000" />
     </task>
     <servers />
   </component>
@@ -81,7 +109,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -89,10 +134,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1506" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598105509653">
+    <state x="-1506" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598716787139">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1506" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598105509653" />
+    <state x="-1506" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598716787139" />
+    <state x="-1828" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1598719487869">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1828" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598719487869" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1598100089696">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -113,14 +162,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598100102080" />
-    <state x="-1459" y="157" key="SettingsEditor" timestamp="1598457094673">
+    <state x="-1459" y="157" key="SettingsEditor" timestamp="1598459836481">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1459" y="157" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598457094673" />
+    <state x="-1459" y="157" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598459836481" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598100098129" />
-    <state x="-1381" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1598106589854">
+    <state x="-1121" y="328" key="cloudConfig.SelfSettingsDialog" timestamp="1598459896949">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1381" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598106589854" />
+    <state x="-1121" y="328" key="cloudConfig.SelfSettingsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598459896949" />
+    <state x="-1228" y="262" key="git4idea.ui.GitUnstashDialog" timestamp="1598719425007">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1228" y="262" key="git4idea.ui.GitUnstashDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598719425007" />
+    <state x="-1381" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1598720091114">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1381" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598720091114" />
   </component>
 </project>
