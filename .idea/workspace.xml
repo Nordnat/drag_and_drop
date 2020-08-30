@@ -20,17 +20,14 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:namsespaces" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7265eb73-a242-4033-8ec8-bfda28978f3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="7265eb73-a242-4033-8ec8-bfda28978f3e" name="Default Changelist" comment="Drag and drop implementation">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +48,38 @@
         </map>
       </branch-storage>
     </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="namsespaces" />
+                    <option name="lastUsedInstant" value="1598725460" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1598725459" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectId" id="1gSBNdBpwAfuHBLvdjoWifRrFYM" />
   <component name="ProjectViewState">
@@ -68,6 +93,14 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\drag_drop_ts\src\state" />
+      <recent name="C:\projects\drag_drop_ts\src\util" />
+      <recent name="C:\projects\drag_drop_ts\src\model" />
+      <recent name="C:\projects\drag_drop_ts\src\decorators" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -94,8 +127,17 @@
       <workItem from="1598457116348" duration="868000" />
       <workItem from="1598459851903" duration="64000" />
       <workItem from="1598556905012" duration="1389000" />
-      <workItem from="1598713004810" duration="6988000" />
+      <workItem from="1598713004810" duration="10730000" />
+      <workItem from="1598781738718" duration="1212000" />
     </task>
+    <task id="LOCAL-00001" summary="Drag and drop implementation">
+      <created>1598723451652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598723451652</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -120,7 +162,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="namsespaces" />
                       </list>
                     </value>
                   </entry>
@@ -133,11 +175,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Drag and drop implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Drag and drop implementation" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="-1506" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598716787139">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1506" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598716787139" />
+    <state x="-1296" y="302" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598727176380">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1296" y="302" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598727176380" />
     <state x="-1828" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1598719487869">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -162,11 +212,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598100102080" />
-    <state x="-1459" y="157" key="SettingsEditor" timestamp="1598459836481">
+    <state x="-1459" y="157" key="SettingsEditor" timestamp="1598725856597">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1459" y="157" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598459836481" />
+    <state x="-1459" y="157" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598725856597" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598100098129" />
+    <state x="-1469" y="187" key="Vcs.Push.Dialog.v2" timestamp="1598723554377">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1469" y="187" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598723554377" />
     <state x="-1121" y="328" key="cloudConfig.SelfSettingsDialog" timestamp="1598459896949">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
