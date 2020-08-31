@@ -1,7 +1,7 @@
 {
-  "name": "understanding-typescript",
+  "name": "drag_drope_ts",
   "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
+  "description": "Simple TS app",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     "typescript",
     "course"
   ],
-  "author": "Maximilian Schwarzmüller",
+  "author": "Nordnat",
   "license": "ISC",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
